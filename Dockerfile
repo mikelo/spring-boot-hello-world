@@ -1,6 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
-
-MAINTAINER tech-tejendra
+FROM quay.io/eclipse/che-java8-maven:next
 
 USER root
 
